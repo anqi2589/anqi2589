@@ -12,3 +12,5 @@
 anqi2589/anqi2589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+今天下载了VMware，安装的Ubuntu24.04
+成功进入了Linux的系统界面，但是电脑有啥问题进入很卡
